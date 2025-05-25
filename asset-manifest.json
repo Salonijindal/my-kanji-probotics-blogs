@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1bceb33.css",
+    "main.js": "/static/js/main.25e26f62.js",
+    "static/media/kanji-image.jpg": "/static/media/kanji-image.86ae531dbe9817ec54ed.jpg",
+    "index.html": "/index.html",
+    "main.e1bceb33.css.map": "/static/css/main.e1bceb33.css.map",
+    "main.25e26f62.js.map": "/static/js/main.25e26f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1bceb33.css",
+    "static/js/main.25e26f62.js"
+  ]
+}
